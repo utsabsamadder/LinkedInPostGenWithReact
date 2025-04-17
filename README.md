@@ -24,8 +24,10 @@ The project consists of two main parts:
 
 ```bash
 
-git clone <repository-url>
+git clone https://github.com/utsabsamadder/LinkedInPostGenWithReact.git
 cd <repository-name>
+git branch <branch_name>
+git checkout<branch_name>
 ```
 2. Create and activate a virtual environment:
 
