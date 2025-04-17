@@ -1,0 +1,48 @@
+.model-selector {
+    margin-bottom: 24px;
+  }
+  
+  .model-selector h2 {
+    font-size: 18px;
+    margin-bottom: 12px;
+  }
+  
+  .model-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  
+  @media (min-width: 768px) {
+    .model-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  
+  .model-card {
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    padding: 16px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  
+  .model-card:hover {
+    border-color: var(--primary-color);
+  }
+  
+  .model-card.selected {
+    border-color: var(--primary-color);
+    background-color: var(--primary-light);
+    box-shadow: var(--box-shadow);
+  }
+  
+  .model-card h3 {
+    font-size: 16px;
+    margin-bottom: 4px;
+  }
+  
+  .model-card p {
+    font-size: 14px;
+    color: var(--text-light);
+  }

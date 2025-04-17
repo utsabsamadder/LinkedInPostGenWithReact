@@ -1,0 +1,15 @@
+.header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 24px 0;
+  }
+  
+  .header h1 {
+    font-size: 28px;
+    margin-bottom: 8px;
+  }
+  
+  .header p {
+    opacity: 0.9;
+    font-size: 16px;
+  }

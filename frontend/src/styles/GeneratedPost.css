@@ -1,0 +1,76 @@
+.generated-post {
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    padding: 16px;
+    margin-bottom: 24px;
+  }
+  
+  .post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 12px;
+  }
+  
+  .post-header h2 {
+    font-size: 18px;
+    margin-bottom: 0;
+  }
+  
+  .copy-button {
+    font-size: 14px;
+    padding: 4px 12px;
+    background-color: var(--primary-light);
+    color: var(--primary-color);
+    border: none;
+    border-radius: var(--border-radius);
+    transition: background-color 0.2s;
+  }
+  
+  .copy-button:hover {
+    background-color: #bae6fd;
+  }
+  
+  .post-content {
+    white-space: pre-line;
+    color: var(--text-color);
+  }
+  
+  .post-loading {
+    animation: pulse 1.5s infinite;
+  }
+  
+  .loading-line {
+    height: 16px;
+    background-color: #f3f4f6;
+    border-radius: 4px;
+    margin-bottom: 8px;
+  }
+  
+  .loading-line:nth-child(1) {
+    width: 75%;
+  }
+  
+  .loading-line:nth-child(2) {
+    width: 100%;
+  }
+  
+  .loading-line:nth-child(3) {
+    width: 83%;
+  }
+  
+  .loading-line:nth-child(4) {
+    width: 50%;
+  }
+  
+  @keyframes pulse {
+    0% {
+      opacity: 0.6;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0.6;
+    }
+  }

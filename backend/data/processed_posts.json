@@ -1,0 +1,173 @@
+[
+    {
+        "text": "You can crack EVERY DSA interview\nWith this 4-month roadmap (personally used this for Google & Microsoft) \ud83d\udd3b\n\u2611\ufe0f \ud835\udc16\ud835\udc1e\ud835\udc1e\ud835\udc24 \ud835\udfcf-\ud835\udfd0: \ud835\udc00\ud835\udc2b\ud835\udc2b\ud835\udc1a\ud835\udc32\ud835\udc2c, \ud835\udc12\ud835\udc2d\ud835\udc2b\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc2c, \ud835\udc0c\ud835\udc1a\ud835\udc2d\ud835\udc21 \u2013 Prefix sum, sliding window, two pointers, hashing\n\u2611\ufe0f \ud835\udc16\ud835\udc1e\ud835\udc1e\ud835\udc24 \ud835\udfd1-\ud835\udfd2: \ud835\udc0b\ud835\udc22\ud835\udc27\ud835\udc24\ud835\udc1e\ud835\udc1d \ud835\udc0b\ud835\udc22\ud835\udc2c\ud835\udc2d, \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc1c\ud835\udc24, \ud835\udc10\ud835\udc2e\ud835\udc1e\ud835\udc2e\ud835\udc1e \u2013 Singly/doubly LL, fast-slow pointers, stack with min/max, queue variations\n\u2611\ufe0f \ud835\udc16\ud835\udc1e\ud835\udc1e\ud835\udc24 \ud835\udfd3: \ud835\udc13\ud835\udc2b\ud835\udc1e\ud835\udc1e\ud835\udc2c & \ud835\udc01\ud835\udc22\ud835\udc27\ud835\udc1a\ud835\udc2b\ud835\udc32 \ud835\udc13\ud835\udc2b\ud835\udc1e\ud835\udc1e\ud835\udc2c \u2013 Preorder/Inorder/Postorder, BFS/DFS, diameter, balanced trees\n\u2611\ufe0f \ud835\udc16\ud835\udc1e\ud835\udc1e\ud835\udc24 \ud835\udfd4: \ud835\udc01\ud835\udc12\ud835\udc13 & \ud835\udc13\ud835\udc2b\ud835\udc22\ud835\udc1e\ud835\udc2c \u2013 Floor/Ceil, kth smallest, delete in BST, prefix search\n\u2611\ufe0f \ud835\udc16\ud835\udc1e\ud835\udc1e\ud835\udc24 \ud835\udfd5: \ud835\udc11\ud835\udc1e\ud835\udc1c\ud835\udc2e\ud835\udc2b\ud835\udc2c\ud835\udc22\ud835\udc28\ud835\udc27 & \ud835\udc01\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc2d\ud835\udc2b\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc22\ud835\udc27\ud835\udc20 \u2013 Subsets, permutations, N-Queens, Sudoku solver\n\u2611\ufe0f \ud835\udc16\ud835\udc1e\ud835\udc1e\ud835\udc24 \ud835\udfd6: \ud835\udc07\ud835\udc1e\ud835\udc1a\ud835\udc29\ud835\udc2c & \ud835\udc0f\ud835\udc2b\ud835\udc22\ud835\udc28\ud835\udc2b\ud835\udc22\ud835\udc2d\ud835\udc32 \ud835\udc10\ud835\udc2e\ud835\udc1e\ud835\udc2e\ud835\udc1e \u2013 Median of stream, Top K elements, custom comparator\n\u2611\ufe0f \ud835\udc16\ud835\udc1e\ud835\udc1e\ud835\udc24 \ud835\udfd7: \ud835\udc06\ud835\udc2b\ud835\udc1a\ud835\udc29\ud835\udc21\ud835\udc2c (\ud835\udc01\ud835\udc05\ud835\udc12, \ud835\udc03\ud835\udc05\ud835\udc12) \u2013 Detect cycle, connected components, bipartite, topological sort\n\u2611\ufe0f \ud835\udc16\ud835\udc1e\ud835\udc1e\ud835\udc24 \ud835\udfcf\ud835\udfce: \ud835\udc06\ud835\udc2b\ud835\udc1a\ud835\udc29\ud835\udc21\ud835\udc2c (\ud835\udc00\ud835\udc1d\ud835\udc2f\ud835\udc1a\ud835\udc27\ud835\udc1c\ud835\udc1e\ud835\udc1d) \u2013 Dijkstra, Prim\u2019s, Kruskal\u2019s, Union Find, shortest path variants\n\u2611\ufe0f \ud835\udc16\ud835\udc1e\ud835\udc1e\ud835\udc24 \ud835\udfcf\ud835\udfcf: \ud835\udc03\ud835\udc32\ud835\udc27\ud835\udc1a\ud835\udc26\ud835\udc22\ud835\udc1c \ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc20\ud835\udc2b\ud835\udc1a\ud835\udc26\ud835\udc26\ud835\udc22\ud835\udc27\ud835\udc20 \u2013 1D DP (Linear DP), 2D/Matrix DP, DP on Strings, Subsequences, Bitmask DP, Trees, Graphs, Interval DP, MCM Problems, Game Theory DP\nLearning DSA is one thing; using it in interviews is another. Can you stay calm under pressure? Can you tackle follow-up questions and explain your approach step by step?\n\ud83d\udccc The best way to master this is to practice with senior engineers who've actually been on interview panels.\nConnect with them here and get started for FREE: https://lnkd.in/d_dDh4GB\nThey know exactly what the interview process looks like and will guide you with a tailored DSA roadmap, share company-specific questions, provide feedback through mock sessions, and keep you on track. \ud83d\udcab\nhashtag#dsainterviews hashtag#dsastrategy hashtag#collab hashtag#preplacedcollab hashtag#techinterviews hashtag#codingrounds",
+        "engagement": 1332,
+        "line_count": 14,
+        "language": "English",
+        "tags": [
+            "Data Structure",
+            "Coding Challenge",
+            "Collaboration",
+            "Interview Prep"
+        ]
+    },
+    {
+        "text": "Kanerika Townhall Q1, 2025 \u2013 A New Chapter of Excellence! \ud83d\ude80\n\nWhat an electrifying start to 2025! Our Q1 Townhall was a powerful reminder of the amazing talent and passion driving Kanerika forward.\n\n\ud83d\udca5A huge round of applause to all the nominees and winners! \ud83c\udfc6\nYour exceptional contributions are shaping our future. Whether it\u2019s through innovative ideas, consistent hard work, or inspiring leadership, each of you is a key player in our success. \ud83d\ude4c\n\nTogether, we\u2019ve set the bar high, and we\u2019re just getting started. Let\u2019s keep the momentum going\u2014onwards and upwards! \ud83d\udca1\n\nhashtag#KanerikaExcellence hashtag#Q12025 hashtag#CelebratingSuccess hashtag#Innovation hashtag#Teamwork hashtag#Winners hashtag#ProudMoment\n\nBhupendra Chopra Samidha Garud Vish Nath Majd Madina Amit Chandak Gaurav Verma Ruba D. Cdr Manpreet Singh (Retd) Ryan Palm Dr. Kshitij Singhal Ubedulla Shariff Mohamamd Sunil Allada Naren Ch Amit Kumar Jena Sarika Kothakonda Nandini M",
+        "engagement": 81,
+        "line_count": 9,
+        "language": "English",
+        "tags": [
+            "Kanerika",
+            "Innovation",
+            "Quarterly Goals",
+            "Success Stories",
+            "Teamwork"
+        ]
+    },
+    {
+        "text": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\n\n\u201c\ud835\udc18\ud835\udc28\ud835\udc2e\ud835\udc2b \ud835\udc2b\ud835\udc1e\ud835\udc2c\ud835\udc2e\ud835\udc26\ud835\udc1e \ud835\udc30\ud835\udc1a\ud835\udc2c \ud835\udc2f\ud835\udc22\ud835\udc1e\ud835\udc30\ud835\udc1e\ud835\udc1d \ud835\udc1b\ud835\udc32 \ud835\udc09\ud835\udc28\ud835\udc21\ud835\udc27 \ud835\udc03\ud835\udc28\ud835\udc1e \ud835\udc28\ud835\udc27 \ud835\udc05\ud835\udc1e\ud835\udc1b \ud835\udfed\ud835\udfd2, \ud835\udfee\ud835\udfec\ud835\udfee\ud835\udff1 \ud835\udc1a\ud835\udc2d \ud835\udfed\ud835\udfec:\ud835\udfd2\ud835\udfee \ud835\udc00\ud835\udc0c.\u201d\n\nWhat if you could get a notification every time someone opened your resume?\nNo more wondering. No more guessing. Just actual signals.\n\nA few months ago, I was deep in the job hunt hustle. I reached out like crazy to managers, HRs, talent acquisition teams, alumni, friends-of-friends... you name it. Sent out dozens of resumes every single day.\n\nBut here's the thing \ud83e\udd14:\nI had no idea who actually opened them. No idea who was just ghosting me,\nand who might\u2019ve actually taken a look.\nThat\u2019s when I built Visly \ud83d\udc40.\n\n\ud83d\udd0d\ud835\udc16\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc22\ud835\udc2c \ud835\udc15\ud835\udc22\ud835\udc2c\ud835\udc25\ud835\udc32?\nVisly is a Chrome Extension that shows you who checked out your resume and when. So you can follow up with the people who actually showed interest. No more guessing. No more hoping someone might have seen it.\n\n\u2699\ufe0f \ud835\udc07\ud835\udc28\ud835\udc30 \ud835\udc22\ud835\udc2d \ud835\udc30\ud835\udc28\ud835\udc2b\ud835\udc24\ud835\udc2c :\n1\ufe0f\u20e3 Highlight someone\u2019s name (e.g. on LinkedIn)\n2\ufe0f\u20e3 Click the \u201c\ud83d\udcce Copy Link\u201d button (a unique, trackable resume link is copied)\n3\ufe0f\u20e3 Send the link and get notified when they view your resume (name + date + time)\n\nIt\u2019s lightweight, free, and built to make job hunting a little less blind. \ud83d\udc40\n\ud83d\udc68\u200d\ud83d\udcbb Check it out here:\n\ud83d\udd17 https://lnkd.in/dJ5-FG9K\n\nDo give it a try and tell me how it goes \ud83d\ude80\n\nhashtag#jobsearch hashtag#visly hashtag#resume hashtag#chromeextension hashtag#jobhunt hashtag#studentlife hashtag#recruiting hashtag#career hashtag#resumetips hashtag#techtools hashtag#linkedin hashtag#opensource hashtag#joblife hashtag#applyforjobs hashtag#internships hashtag#coldreach hashtag#connect",
+        "engagement": 435,
+        "line_count": 26,
+        "language": "English",
+        "tags": [
+            "Design",
+            "Chrome Extension",
+            "Resume Building",
+            "Job Search"
+        ]
+    },
+    {
+        "text": "\ud83c\udf1f Excited to Share! \ud83c\udf1f\n\nI am thrilled to announce that I have joined Kanerika Inc as a Software Engineer Intern \u2014a global consulting firm dedicated to building efficient enterprises through automation.\n\nI am truly honored and excited to be a part of this prestigious organization.\n\nA heartfelt thank you to my family and friends for their unwavering support throughout my journey. \ud83d\ude4f\n\nI also want to express my gratitude to the entire Kanerika Inc team for the warm welcome and smooth onboarding process:\nSamidha Garud\nBhupendra Chopra\nJitsoma Banerjee\nAmit Kumar Jena\nNandini Kanumuri\nRoshini Singh\nSai Keerthi Adikarla\n\nA special thanks to Vishal Pandey and Ayushman Tiwari for always supporting me and guiding me in the right direction.\n\nHere\u2019s to growth and the beginning of an exciting new journey! \ud83d\ude80",
+        "engagement": 246,
+        "line_count": 9,
+        "language": "English",
+        "tags": [
+            "Kanerika",
+            "New Beginnings",
+            "Internship",
+            "Software Engineer",
+            "Career Growth"
+        ]
+    },
+    {
+        "text": "My best friend just left Google </3\n\n17th April 2024: It was my 3rd day at Google when I met Divyam. My first impression of him was that of a quiet, shy guy who\u2019d keep to himself, do his job and head home.\n\nBut first impressions can often be deceiving.\n\nIn just a few weeks, I heard him speak eloquently in meetings, simplifying complex ideas in a way that everyone understood \u2014 even new joiners.\n\nI would go on to interact with him and find out how much we had in common\u2014 from table tennis to gym to discussing our same-same taste in cricket and anime. We went from colleagues to buddies in no time.\n\nProfessionally, this guy didn\u2019t just do his job \u2014 he excelled. Divyam was promoted at Google in less than 1.5 years, which for those who know, is basically the top 1% of the top 1%. Calling him a high performer would be an understatement.\n\nOn top of that, he helped almost everyone on the team, growing like mad in terms of both programming and soft skills - from small talk to deep tech discussions - I witnessed firsthand how a 10x engineer works.\n\nNow, you might be curious: why did he leave even though he was having a blast of a career at Google?\n\nThe answer is simple - having extended the boundaries of what it means to be an engineer so quickly - Divyam realized he\u2019s meant for something bigger (you\u2019d realize the same if you talked to him just once).\n\nWith that, I am elated to tell you all that a 10x engineer (who\u2019s growing more every day) just landed on the market:\n\n- Companies who are looking for top talent in ML - this is your chance, pay whatever it takes to hire him.\n\n- Founders looking for a tech co-founder, this is your shot, pitch him with all you've got.\n\n- VCs looking for a sure bet, this man already has two cool apps out with 10K+ downloads, and is always tinkering. Go chat with him and fund whatever idea he works on next.\n\nYou will thank me later if you get him!\n\n---\n\nDivyam, you\u2019re one of the best.\n\nIt was nothing short of an honor to have worked and have so much fun \u2014 outings/meetups/memories outside office with you. And while I plan to annoy you for a long time, not seeing you in office would surely sting.\n\nYou\u2019ll be missed, my friend :')\n\n\ud83d\udc99\u2764\ufe0f\ud83d\udc9b\ud83d\udc9a",
+        "engagement": 1577,
+        "line_count": 56,
+        "language": "English",
+        "tags": [
+            "Talent",
+            "Engineer",
+            "Google",
+            "Machine Learning",
+            "Technology",
+            "Career",
+            "Job Search",
+            "Teamwork"
+        ]
+    },
+    {
+        "text": "I have been working with React.js for years and now I have finally cracked the code:\n\nHere are 10 React.js LLD questions you should definitely prepare for to make a switch to top PBCs:\n\n\ud835\udfed. \ud835\udddb\ud835\uddfc\ud835\ude04 \ud835\ude04\ud835\uddfc\ud835\ude02\ud835\uddf9\ud835\uddf1 \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\uddf1\ud835\uddf2\ud835\ude00\ud835\uddf6\ud835\uddf4\ud835\uddfb \ud835\uddee \ud835\ude01\ud835\uddfc\ud835\uddee\ud835\ude00\ud835\ude01 \ud835\uddfb\ud835\uddfc\ud835\ude01\ud835\uddf6\ud835\uddf3\ud835\uddf6\ud835\uddf0\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\ude00\ud835\ude06\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddfa \ud835\uddf6\ud835\uddfb \ud835\udde5\ud835\uddf2\ud835\uddee\ud835\uddf0\ud835\ude01?\n\u2192 How will you manage global state, queue notifications, and prevent overlaps? Would you use Context, Redux, or a custom event bus?\n\n\ud835\udfee. \ud835\udddb\ud835\uddfc\ud835\ude04 \ud835\ude04\ud835\uddfc\ud835\ude02\ud835\uddf9\ud835\uddf1 \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\uddef\ud835\ude02\ud835\uddf6\ud835\uddf9\ud835\uddf1 \ud835\uddee \ud835\uddfb\ud835\uddf2\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddf1 \ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\ude01\ud835\uddf5\ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddf1 \ud835\uddf9\ud835\uddf6\ud835\uddf8\ud835\uddf2 \ud835\udde5\ud835\uddf2\ud835\uddf1\ud835\uddf1\ud835\uddf6\ud835\ude01?\n\u2192 How will you structure recursive components and optimize performance?\n\n\ud835\udfef. \ud835\udddb\ud835\uddfc\ud835\ude04 \ud835\ude04\ud835\uddfc\ud835\ude02\ud835\uddf9\ud835\uddf1 \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\uddf1\ud835\uddf2\ud835\ude00\ud835\uddf6\ud835\uddf4\ud835\uddfb \ud835\uddee \ud835\uddff\ud835\uddf2\ud835\ude00\ud835\uddfd\ud835\uddfc\ud835\uddfb\ud835\ude00\ud835\uddf6\ud835\ude03\ud835\uddf2 \ud835\ude00\ud835\uddf6\ud835\uddf1\ud835\uddf2\ud835\uddef\ud835\uddee\ud835\uddff \ud835\uddfb\ud835\uddee\ud835\ude03\ud835\uddf6\ud835\uddf4\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb?\n\u2192 What\u2019s your approach for mobile vs desktop, toggling submenus, and linking routes?\n\n\ud835\udff0. \ud835\udddb\ud835\uddfc\ud835\ude04 \ud835\ude04\ud835\uddfc\ud835\ude02\ud835\uddf9\ud835\uddf1 \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\uddf6\ud835\uddfa\ud835\uddfd\ud835\uddf9\ud835\uddf2\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddee \ud835\ude01\ud835\uddee\ud835\uddef \ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddfd\ud835\uddfc\ud835\uddfb\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\uddee\ud835\uddfb\ud835\uddf6\ud835\uddfa\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\ude00?\n\u2192 How do you manage tab state, dynamic rendering, and apply smooth transitions?\n\n\ud835\udff1. \ud835\udddb\ud835\uddfc\ud835\ude04 \ud835\ude04\ud835\uddfc\ud835\ude02\ud835\uddf9\ud835\uddf1 \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\uddef\ud835\ude02\ud835\uddf6\ud835\uddf9\ud835\uddf1 \ud835\uddee \ud835\uddf3\ud835\uddf6\ud835\uddf9\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\uddee\ud835\uddef\ud835\uddf9\ud835\uddf2, \ud835\ude00\ud835\uddfc\ud835\uddff\ud835\ude01\ud835\uddee\ud835\uddef\ud835\uddf9\ud835\uddf2 \ud835\uddf1\ud835\uddee\ud835\ude01\ud835\uddee \ud835\ude01\ud835\uddee\ud835\uddef\ud835\uddf9\ud835\uddf2 \ud835\uddf6\ud835\uddfb \ud835\udde5\ud835\uddf2\ud835\uddee\ud835\uddf0\ud835\ude01?\n\u2192 How do you modularize headers, handle pagination, and manage large datasets?\n\n\ud835\udff2. \ud835\udddb\ud835\uddfc\ud835\ude04 \ud835\ude04\ud835\uddfc\ud835\ude02\ud835\uddf9\ud835\uddf1 \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\uddf6\ud835\uddfa\ud835\uddfd\ud835\uddf9\ud835\uddf2\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddee '\ud835\uddf9\ud835\uddf6\ud835\uddf8\ud835\uddf2' \ud835\uddef\ud835\ude02\ud835\ude01\ud835\ude01\ud835\uddfc\ud835\uddfb \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\uddfc\ud835\uddfd\ud835\ude01\ud835\uddf6\ud835\uddfa\ud835\uddf6\ud835\ude00\ud835\ude01\ud835\uddf6\ud835\uddf0 \ud835\ude02\ud835\uddfd\ud835\uddf1\ud835\uddee\ud835\ude01\ud835\uddf2\ud835\ude00?\n\u2192 How do you update the UI instantly and handle rollbacks on failure?\n\n\ud835\udff3. \ud835\udddb\ud835\uddfc\ud835\ude04 \ud835\ude04\ud835\uddfc\ud835\ude02\ud835\uddf9\ud835\uddf1 \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\uddef\ud835\ude02\ud835\uddf6\ud835\uddf9\ud835\uddf1 \ud835\uddee \ud835\uddf9\ud835\uddf6\ud835\ude03\ud835\uddf2 \ud835\uddf0\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\uddf3\ud835\uddf2\ud835\uddee\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddf2 \ud835\uddf6\ud835\uddfb \ud835\udde5\ud835\uddf2\ud835\uddee\ud835\uddf0\ud835\ude01?\n\u2192 Would you use WebSockets or polling? How do you manage messages and typing indicators?\n\n\ud835\udff4. \ud835\udddb\ud835\uddfc\ud835\ude04 \ud835\ude04\ud835\uddfc\ud835\ude02\ud835\uddf9\ud835\uddf1 \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\ude01\ud835\uddf5\ud835\uddff\ud835\uddfc\ud835\ude01\ud835\ude01\ud835\uddf9\ud835\uddf2 \ud835\uddfc\ud835\uddff \ud835\uddf1\ud835\uddf2\ud835\uddef\ud835\uddfc\ud835\ude02\ud835\uddfb\ud835\uddf0\ud835\uddf2 \ud835\uddef\ud835\ude02\ud835\ude01\ud835\ude01\ud835\uddfc\ud835\uddfb \ud835\uddf0\ud835\uddf9\ud835\uddf6\ud835\uddf0\ud835\uddf8\ud835\ude00 \ud835\ude01\ud835\uddfc \ud835\uddee\ud835\ude03\ud835\uddfc\ud835\uddf6\ud835\uddf1 \ud835\uddd4\ud835\udde3\ud835\udddc \ud835\ude00\ud835\uddfd\ud835\uddee\ud835\uddfa?\n\u2192 Would you use lodash? Or write custom logic?\n\n\ud835\udff5. \ud835\udddb\ud835\uddfc\ud835\ude04 \ud835\ude04\ud835\uddfc\ud835\ude02\ud835\uddf9\ud835\uddf1 \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\uddf6\ud835\uddfa\ud835\uddfd\ud835\uddf9\ud835\uddf2\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddee \ud835\uddf0\ud835\uddfc\ud835\uddf9\ud835\uddf9\ud835\uddee\ud835\uddfd\ud835\ude00\ud835\uddf6\ud835\uddef\ud835\uddf9\ud835\uddf2 \ud835\uddee\ud835\uddf0\ud835\uddf0\ud835\uddfc\ud835\uddff\ud835\uddf1\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddfd\ud835\uddfc\ud835\uddfb\ud835\uddf2\ud835\uddfb\ud835\ude01?\n\u2192 Will you allow multiple sections to open? How will you manage transitions?\n\n\ud835\udfed\ud835\udfec. \ud835\udddb\ud835\uddfc\ud835\ude04 \ud835\ude04\ud835\uddfc\ud835\ude02\ud835\uddf9\ud835\uddf1 \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\uddf6\ud835\uddfa\ud835\uddfd\ud835\uddf9\ud835\uddf2\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddf1\ud835\uddee\ud835\uddff\ud835\uddf8/\ud835\uddf9\ud835\uddf6\ud835\uddf4\ud835\uddf5\ud835\ude01 \ud835\uddfa\ud835\uddfc\ud835\uddf1\ud835\uddf2 \ud835\ude01\ud835\uddf5\ud835\uddf2\ud835\uddfa\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddf6\ud835\uddfb \ud835\uddee \ud835\udde5\ud835\uddf2\ud835\uddee\ud835\uddf0\ud835\ude01 \ud835\uddee\ud835\uddfd\ud835\uddfd?\n\u2192 Would you use CSS variables, Context API, or a library?\n\nIf you're aiming for MAANG or top product companies, don\u2019t skip LLD as an afterthought. It is where good React devs become great designers.\n\nAnd if you need a structured routine, you can check out Bosscoder Academy for their personalized mentorship and interview-backed LLD prep.\n\nCheck them out: https://bit.ly/4igJQO0\nThey have helped 2200+ SDEs crack top product-based companies.\n\nIf you found it helpful please do like and share \ud83d\udc4d",
+        "engagement": 363,
+        "line_count": 67,
+        "language": "English",
+        "tags": [
+            "React",
+            "System Design",
+            "Coding Academy",
+            "Top Companies",
+            "Interview Prep",
+            "JavaScript",
+            "Frontend Development",
+            "Software Engineering"
+        ]
+    },
+    {
+        "text": "\ud83d\udea8 We\u2019re Hiring \u2013 Senior Finance Executive at Kanerika! \ud83d\udea8\n\nAre you well-versed in US Accounting, Taxation, and Compliance? Or do you know someone who is?\n\nWe at Kanerika Inc are on the lookout for a skilled and driven Senior Finance Executive to join our growing team!\n\ud83d\udd39 Strong knowledge of US financial regulations\n\ud83d\udd39 Experience in accounting, taxation & compliance\n\ud83d\udd39 Detail-oriented and analytical mindset\n\nIf this sounds like you (or someone you know), we\u2019d love to connect!\n\n\ud83d\udce9 Apply now or share this post to help us reach the right talent.\nLet\u2019s build something great together!\n\n#Hiring #FinanceJobs #USAccounting #Compliance #Taxation #KanerikaCareers #JobOpportunity #NowHiring #SeniorFinanceExecutive #USGAAP #Opening #Hyderabadjobs #Careeropportunity #Apply #Kanerika",
+        "engagement": 14,
+        "line_count": 9,
+        "language": "English",
+        "tags": [
+            "Taxation",
+            "Compliance",
+            "Accounting",
+            "Finance Jobs",
+            "Hiring"
+        ]
+    },
+    {
+        "text": "\ud83d\udc94 6 Months Without Work \u2014 But Not Without Hope \ud83d\ude4f\nI never thought I\u2019d have to write a post like this \u2014 but today, I\u2019m choosing courage over silence, and hope over fear.\nWith 7 years of experience as a QA Engineer, I\u2019ve had the privilege to work with top companies like Unacademy, CARS24, CarDekho Group, SCIENTIFIC GAMES, Light & Wonder, and RELIGARE HEALTH INSURANCE (RHI) Health Insurance (now Care Health Insurance).\nMy domain experience spans across EdTech, Automobile, Health Insurance, and iGaming, giving me a well-rounded view of product and user quality.\n\nI specialize in:\n\u2705 Manual Testing\n\u2705 API Testing using Postman\n\u2705 JIRA, Agile Methodologies\n\u2705 MySQL Database\n\nCurrently, I\u2019m also upskilling in Automation Testing \u2014 learning Selenium with Java from Uncodemy, to stay ahead and expand my capabilities.\n\nBut for the past 6 months, I\u2019ve been unemployed, and I\u2019ll be honest \u2014 it\u2019s been tough.\nLiving in Bangalore without a job is not easy, especially as someone who comes from a small village in Bihar, where girls aren\u2019t often encouraged to pursue education.\nBeing a part of middle-class family background I broke through that barrier, completed my education, and became the first in my family to do so \u2014 carrying the responsibility of being the eldest daughter and main supporter for my family. My parents always supported me being a farmer and homemaker, now I'm feeling guilty that I'm not capable to support back to them.\n\nDespite the current financial and emotional stress, I haven\u2019t lost hope.\n\u2728 I'm actively looking for a role in:\n#QAManual\n#ScrumMaster\n#AssociateProductManager (APM)\n\nI believe my experience, adaptability, and dedication make me a strong candidate \u2014 and I am an IMMEDIATE JOINER, ready to contribute from Day 1.\nIf you or someone you know is hiring, please consider my profile or help me by sharing this post. Even a small action could mean a world of change.\n\ud83d\udce9 Feel free to DM me for my resume or any details. Thank you so much for your support!\n\nLet\u2019s remember \u2014 behind every job title is a person with dreams, struggles, and the will to rise again.",
+        "engagement": 444,
+        "line_count": 26,
+        "language": "English",
+        "tags": [
+            "Product Management",
+            "Java",
+            "Testing",
+            "Quality Assurance",
+            "Agile Methodologies"
+        ]
+    },
+    {
+        "text": "How I Cracked the Goldman Sachs Engineering Campus Hiring Program (EHCP) Aptitude Test\n\nA lot of folks have reached out asking how I prepared for the aptitude test that comes before the Goldman Sachs EHCP interviews.\n\nSo here\u2019s the breakdown:\n\nTo reach the interview stage, I first had to clear two rounds of online assessments:\n1. Aptitude Test\n2. Technical Test\n\nWhile preparing for the aptitude test, I stumbled upon a goldmine of a YouTube playlist that broke down all the different question patterns in detail.\nI focused on mastering the patterns shown in those videos\u2014and honestly, it worked! I was able to solve most of the questions confidently.\n\nYouTube playlist: https://lnkd.in/gkNYSVNR\n\n\u26a0\ufe0f Disclaimer:\nI took this test in Oct-Nov 2022. The format might have changed since then\u2014please verify the latest structure before you start preparing.\n\nHere\u2019s what the format of the Aptitude Test looked like (as of 2022):\n\u2022 Total Time: 120 minutes\n\u2022 Total Questions: 70\n\u2022 Sections: 7 (all mandatory & video proctored)\n\u2022 You could switch between sections.\n\nSections:\n\u2022 Numerical Computations \u2014 12 Qs\n\u2022 Numerical Reasoning \u2014 12 Qs\n\u2022 Abstract Reasoning \u2014 12 Qs\n\u2022 Diagrammatic Reasoning \u2014 12 Qs\n\u2022 Logical Reasoning \u2014 12 Qs\n\u2022 Comprehension 1 \u2014 5 Qs\n\u2022 Comprehension 2 \u2014 5 Qs\n\nMarking Scheme:\n+5 for every correct answer\n-2 for every incorrect one\n\nHope this helps, I\u2019ll soon share the details of my Technical Test experience.",
+        "engagement": 272,
+        "line_count": 29,
+        "language": "English",
+        "tags": [
+            "Assessment",
+            "Health",
+            "Engineering",
+            "Goldman Sachs",
+            "Hiring"
+        ]
+    },
+    {
+        "text": "\ud835\udc08\ud835\udc27 \ud835\udfd0\ud835\udfce\ud835\udfd0\ud835\udfd3, \ud835\udc2c\ud835\udc28\ud835\udc25\ud835\udc2f\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udfcf\ud835\udfce\ud835\udfce\ud835\udfce+ \ud835\udc0b\ud835\udc1e\ud835\udc1e\ud835\udc2d\ud835\udc02\ud835\udc28\ud835\udc1d\ud835\udc1e \ud835\udc2a\ud835\udc2e\ud835\udc1e\ud835\udc2c\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27\ud835\udc2c \u2260 \ud835\udc1a \ud835\udc23\ud835\udc28\ud835\udc1b \ud835\udc28\ud835\udc1f\ud835\udc1f\ud835\udc1e\ud835\udc2b.\n\nIf I had to start over today and crack a software engineering job as a student, here\u2019s the roadmap I\u2019d follow:\n\n\u25ba Phase 1: Build Your Foundations\n1. \ud835\udc03\ud835\udc12\ud835\udc00 \ud835\udc05\ud835\udc22\ud835\udc2b\ud835\udc2c\ud835\udc2d \u2013 Start with core topics: Arrays, Strings, Linked Lists, Stacks, Queues\nPlatforms: GeeksforGeeks, HackerRank, LeetCode (focus on Easy/Medium)\n2. \ud835\udc02\ud835\udc28\ud835\udc2b\ud835\udc1e \ud835\udc02\ud835\udc12 \ud835\udc12\ud835\udc2e\ud835\udc1b\ud835\udc23\ud835\udc1e\ud835\udc1c\ud835\udc2d\ud835\udc2c \u2013 Learn in parallel:\n\u2022 Operating Systems \u2013 Memory management, scheduling, deadlocks\n\u2022 DBMS \u2013 SQL queries, transactions, indexing\n\u2022 Computer Networks \u2013 TCP/IP, HTTP, DNS\n\u2022 OOPs \u2013 Inheritance, polymorphism, design patterns\n\nFor a long time, I believed: the more I grind, the better I get.\nBut then I came across an SDE-3 at Microsoft who cracked it with under 400 problems.\nThat completely shifted my perspective.\n\nIt\u2019s not about solving 1000+ questions.\nIt\u2019s about solving the right ones, recognizing patterns, and building real clarity.\n\nRecently, I discovered Pratik Kapasi (ex-Google coach), who has compiled 127 key patterns that cover almost every tricky FAANG-level question.\nNow he\u2019s offering a free 1:1 mentorship call + his Google interview cheat sheet (only 30 spots):\nhttps://lnkd.in/gsqgT7C4\n\nLearn smart. Prepare with direction.\nIt makes all the difference.",
+        "engagement": 592,
+        "line_count": 23,
+        "language": "English",
+        "tags": [
+            "Coding",
+            "Coding Challenge",
+            "SoftwareEngineering",
+            "Career Advice",
+            "InterviewPrep"
+        ]
+    },
+    {
+        "text": "\ud83c\udf1f Looking for Senior Talent!\n\nAt Kanerika Inc, we believe great teams build great products. And now, we\u2019re growing even bigger!\n\nWe\u2019re on the lookout for senior professionals across these roles:\n\nSenior Java Developer \u2013 5+ years\nPrincipal Engineer - Java \u2013 10+ years\nTechnical Lead Java - 8+ Years\nLooking for Immediate joiners\n\n\ud83d\udc49 Know someone ready for a new challenge? Refer them today! Your referral could help someone land their dream job.\n\n\ud83d\udce7 Resumes welcomed at: talent.acquisition@kanerika.com\n\ud83d\udcbc Join a dynamic team where your expertise matters.\nLet\u2019s grow together. \ud83d\ude80",
+        "engagement": 15,
+        "line_count": 12,
+        "language": "English",
+        "tags": [
+            "Java Developer",
+            "Talent Acquisition",
+            "Career Goals",
+            "Career Growth",
+            "Job Search"
+        ]
+    },
+    {
+        "text": "Kuch acha nahi lag raha tha\u2026\n\nLife se disconnected sa mehsoos kar raha tha.\nJo karna chahta tha, vo sab ho hi nahi raha tha.\nSara din memes dekhta aur banata tha\u2014pehle khush rehta tha, par ab vo bhi maza nahi aa raha tha.\n\nFir kahin se apne mahaule me Hinglish\u2122 ki entry hui.\nOho oh oh, oho oh oh oh\n\nFirse khud se connected mehsoos kiya.\nJo bhi andar daba pada tha, sab umad ke nikalne laga.\n\nPhir ek din, Shubham Gune Ustaad ji se mulaqat hui.\nUnhone kaha, \"Tumse bohot umeed hai mujhe.\"\nAur bas, samajh aa gaya... mera rasta Hinglish\u2122 se hai.\n\nI understood the art of crafting.\nHow words don\u2019t just tell stories, they make people feel them.\nHow humor and emotions, when blended just right, create an instant connection.\n\nAb sirf khud ki kahani nahi likhni\u2026 brands ki bhi likhni hai.\n\nSpecial thanks to Megha Prasad & Jenil Chavda",
+        "engagement": 219,
+        "line_count": 20,
+        "language": "Hinglish",
+        "tags": [
+            "Storytelling",
+            "Humor",
+            "Motivation",
+            "Self Improvement",
+            "Language"
+        ]
+    },
+    {
+        "text": "Someone, why do you post most of the content in Hindi?\n\nMe: Bhai, this is neither proper Hindi nor proper English; it is Hinglish. (I just feel more comfortable expressing myself in Hinglish.)\n\nWhat's your take on this??\n\nDoes this language thing really matter here?",
+        "engagement": 11,
+        "line_count": 5,
+        "language": "Hinglish",
+        "tags": [
+            "Communication",
+            "Self Improvement",
+            "Language"
+        ]
+    }
+]
