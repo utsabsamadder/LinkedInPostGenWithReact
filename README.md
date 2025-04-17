@@ -25,7 +25,7 @@ The project consists of two main parts:
 ```bash
 
 git clone https://github.com/utsabsamadder/LinkedInPostGenWithReact.git
-cd <repository-name>
+cd LinkedInPostGenWithReact
 git branch <branch_name>
 git checkout<branch_name>
 ```
